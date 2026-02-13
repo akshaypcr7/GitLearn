@@ -1,6 +1,5 @@
 Exploratory Data Analysis on Airbnb New York 🔍
 
-Sep 2025 – Sep 2025
 
 Tools and Lib :-Python · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 Details-
